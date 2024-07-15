@@ -13,3 +13,8 @@ with col2:
     2024 with the degree of BS Computer Engineering from Information Technology University of the Punjab, Lahore.
     """
     st.write(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
